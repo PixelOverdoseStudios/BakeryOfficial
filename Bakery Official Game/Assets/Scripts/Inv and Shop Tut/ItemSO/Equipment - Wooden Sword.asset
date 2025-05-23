@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e8253fdf5981c649ad3178ede33595f, type: 3}
+  m_Name: Equipment - Wooden Sword
+  m_EditorClassIdentifier: 
+  itemName: Wooden Sword
+  itemIcon: {fileID: -5365385695610608141, guid: 48b992ed5bdc57047af934133cd28fac, type: 3}
+  itemType: 1
+  maxStackSize: 1
